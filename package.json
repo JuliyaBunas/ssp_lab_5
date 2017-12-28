@@ -1,0 +1,30 @@
+{
+  "name": "lab4",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bourbon": "^4.3.4",
+    "faster-react-tabs": "^1.0.4",
+    "material-ui": "^0.20.0",
+    "muicss": "^0.9.35",
+    "rc-tabs": "^9.1.10",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-fontawesome": "^1.6.1",
+    "react-image": "latest",
+    "react-scripts": "1.0.17",
+    "react-tabs": "^2.1.1",
+    "semantic-ui-css": "^2.2.12",
+    "semantic-ui-react": "^0.77.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "stop": "react-script stop"
+  },
+  "devDependencies": {
+    "node-bourbon": "^4.2.8"
+  }
+}
